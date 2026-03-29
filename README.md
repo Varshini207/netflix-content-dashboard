@@ -16,3 +16,4 @@ An end-to-end web application visualizing Netflix's global content library.
 1. Clone the repo.
 2. Run `python app.py` in the `/backend` folder.
 3. Run `npm start` in the `/frontend` folder.
+
